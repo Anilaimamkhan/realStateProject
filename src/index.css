@@ -11,6 +11,9 @@ body{
   font-family: "Outfit", sans-serif;
 
 }
+html{
+  scroll-behavior: smooth;
+}
 .images{
   background-image: url("../src/assets/header_img.png");
   background-position: center;
