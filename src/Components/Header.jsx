@@ -4,6 +4,7 @@ import Navbar from './Navbar'
 // import { useGSAP } from "@gsap/react";
 import { delay, motion } from "framer-motion"
 
+
 const fadeInUpAnimation = {
     hidden: {
         opacity: 0,

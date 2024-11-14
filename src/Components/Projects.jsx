@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { assets } from '../assets/assets'
 import { projectsData } from '../assets/assets'
 
+
 const Projects = () => {
     // const [currentIndex, setcurrentIndex] = useState(0)
     // const [cardToShow, setCartToShow] = useState(1)
